@@ -30,5 +30,5 @@ It simulates a compliance monitoring system for virtual asset transactions.
 
 
 
-Author: \Mohamed Sajeec (https://github.com/sajeedah)
+Author: \Mohamed Sajeed (https://github.com/sajeedah)
 
